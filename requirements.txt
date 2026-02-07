@@ -1,0 +1,6 @@
+Flask
+psycopg[binary]>=3.1
+python-dotenv
+translate
+gTTS
+langdetect #detection de lang auto
